@@ -1,3 +1,9 @@
 # Detecção facil básica usando a bibliotece opencv
 
-link : https://github.com/opencv/opencv
+
+Necessário a instalação da biblioteca opencv 
+```sh
+pip install opencv-python
+```
+
+link github : https://github.com/opencv/opencv
